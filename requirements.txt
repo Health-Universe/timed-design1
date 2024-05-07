@@ -1,4 +1,4 @@
-ampal==1.5.1
+ampal
 aposteriori==2.4.0
 matplotlib==3.5.1
 requests==2.31.0
